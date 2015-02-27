@@ -1,0 +1,3 @@
+These OEMBIOS files are empty and will not work
+You must supply these yourself
+Do not ask me for these
